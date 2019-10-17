@@ -1,0 +1,11 @@
+Quadratic Program Instructions
+
+Step 1 - The user will input the values of the coefficients of x^2, x^1 and x^0.
+
+Step 2 - The program will verify with the user if the equation was correctly entered.
+         If yes, the program will evaluate and output answers. 
+         If no, the program will go back to step 1.
+
+Step 3 - The program will ask if the user would like to evaluate another equation.
+         If yes, the program will go back to step 1.
+         If no, the program will end.
